@@ -81,7 +81,11 @@
 <div align="center">
 
 <!-- Contribution streak -->
-<img width="70%" src="https://streak-stats.demolab.com/?user=rohitmaiti588&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+<img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=rohitmaiti588&theme=tokyo-night&hide_border=true"
+    alt="Rohit Maiti's GitHub Contribution Activity Graph"
+    width="100%"
+  />
 
 </div>
 
