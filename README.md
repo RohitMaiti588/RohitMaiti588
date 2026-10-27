@@ -87,13 +87,15 @@
 
 ---
 
+## 📈 Contribution Activity
 
-<!-- <div align="center"-->
+<div align="center">
 
-<!-- Contribution activity graph -->
-<!-- <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rohitmaiti588&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ffffff&area=true&hide_border=true" alt="GitHub Contribution Activity Graph"/> -->
+[![Rohit's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=rohitmaiti588&theme=tokyo-night)](https://github.com/rohitmaiti588)
 
-<!-- </div> -->
+</div>
+
+---
 
 ### 🗓️ Contribution Calendar
 
