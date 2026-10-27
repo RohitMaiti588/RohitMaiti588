@@ -130,13 +130,45 @@
 
 ## 🎯 Current Goals
 
-- [ ] Develop and improve Jackal, my personal voice assistant.
-- [ ] Strengthen my JavaScript and programming fundamentals.
-- [ ] Explore AI integration in practical applications.
-- [ ] Learn C, C++, and C#.
-- [ ] Explore Unity and Unreal Engine for game development.
+### 🌐 Web Development
+- [ ] Strengthen my HTML, CSS, and JavaScript fundamentals.
+- [ ] Learn responsive web design and mobile-first development.
+- [ ] Improve UI/UX design and create modern, user-friendly interfaces.
+- [ ] Learn frontend frameworks and backend development.
+- [ ] Understand APIs, databases, authentication, and web security.
+- [ ] Build and deploy full-stack web applications.
+
+### 🎮 Game Development
+- [ ] Learn game development fundamentals and game design principles.
+- [ ] Learn C# and explore Unity game development.
+- [ ] Learn C++ and explore Unreal Engine.
+- [ ] Understand game physics, player movement, and AI behaviours.
+- [ ] Build small games and gradually work towards larger projects.
+
+### 💻 Programming & New Languages
+- [ ] Improve problem-solving skills and programming logic.
+- [ ] Strengthen my Python and JavaScript skills.
+- [ ] Learn C and C++ for programming fundamentals and performance.
+- [ ] Learn C# for application and game development.
+- [ ] Explore data structures, algorithms, and object-oriented programming.
+- [ ] Write cleaner, reusable, and more efficient code.
+
+### 🤖 AI & Emerging Technologies
+- [ ] Explore AI and machine learning fundamentals.
+- [ ] Learn to integrate AI models and APIs into applications.
+- [ ] Experiment with voice recognition, speech synthesis, and automation.
+- [ ] Explore IoT integration and intelligent application development.
+
+### 🏆 Projects, Hackathons & Open Source
 - [ ] Participate in more hackathons and collaborative projects.
-- [ ] Build useful projects and contribute to open source.
+- [ ] Improve teamwork, technical communication, and project presentation.
+- [ ] Build practical projects that solve real-world problems.
+- [ ] Learn advanced Git and GitHub workflows.
+- [ ] Contribute to open-source projects and collaborate with developers.
+- [ ] Improve documentation, testing, debugging, and deployment skills.
+
+### 🚀 Personal Projects
+- [ ] Develop and continuously improve **Jackal**, my personal voice assistant.
 
 ---
 
