@@ -89,10 +89,11 @@
 
 ## 📈 Contribution Activity
 
-<div align="center">
-
-[![Rohit's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=rohitmaiti588&theme=tokyo-night)](https://github.com/rohitmaiti588)
-
+  <img
+    src="https://ghchart.rshah.org/6366f1/rohitmaiti588"
+    alt="Rohit Maiti's GitHub Contribution Calendar"
+    width="100%"
+  />
 </div>
 
 ---
