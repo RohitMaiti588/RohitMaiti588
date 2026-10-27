@@ -6,7 +6,7 @@
 
 # 👋 Hi, I'm Rohit Maiti
 
-### B.Tech CSE (Core) Student | Aspiring Developer | Hackathon Enthusiast
+### B.Tech CSE (Core) Student | Aspiring Developer (Web & Game) | Hackathon Enthusiast
 
 **Building projects, exploring new technologies, and learning by doing.** 🚀
 
