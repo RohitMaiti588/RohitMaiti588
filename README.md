@@ -1,32 +1,109 @@
-<h1 align="center">Hi 👋, I'm Rohit Maiti</h1>
-<h3 align="center">B.Tech CSE(core) Student| Exploring web dev & game dev | Taking Part in Hackathons</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitmaiti588&label=Profile%20views&color=0e75b6&style=flat" alt="rohitmaiti588" /> </p>
+# 👋 Hey, I'm Rohit Maiti
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitmaiti588" alt="rohitmaiti588" /></a> </p>
+### B.Tech CSE Student · Web Development · Game Development · Hackathons
 
-- 🔭 I’m currently working on **Own Voice Assistant (Jackal).**
-
-- 🌱 I’m currently learning **Javascript and will continue to C++, C#, C, Unity/Unreal**
-
-- 👯 I’m looking to collaborate on **Hackathon Projects, AI Integration, Data storage and Security Services.**
-
-- 🤝 I’m looking for help with **Understanding the coding Languages better.**
-
-- 💬 Ask me about **Python, Web Development, Git/GitHub & my project**
-
-- 📫 How to reach me **rohitmaiti046@gmail.com**
-
-- ⚡ Fun fact **Learn while Build**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rohit maiti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohit maiti" height="30" width="40" /></a>
+<p>
+  <a href="https://github.com/rohitmaiti588">
+    <img src="https://komarev.com/ghpvc/?username=rohitmaiti588&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  </a>
+  <a href="https://github.com/rohitmaiti588?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore-My%20Repositories-181717?style=for-the-badge&logo=github" alt="Explore my repositories" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+*“Learn by building. Improve by experimenting.”*
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitmaiti588&show_icons=true&locale=en&layout=compact" alt="rohitmaiti588" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitmaiti588&show_icons=true&locale=en" alt="rohitmaiti588" /></p>
+---
+
+## 🚀 About Me
+
+- 🔭 Currently building **Jackal — my own voice assistant**.
+- 🌱 Learning **JavaScript**, with plans to explore **C, C++, C#, Unity and Unreal Engine**.
+- 🤝 Interested in collaborating on **hackathon projects, AI integration, data storage and security**.
+- 💬 Ask me about **Python, HTML, CSS, JavaScript, Git/GitHub and my projects**.
+- ⚡ My approach: **Learn while you build.**
+- 📫 Email: **[rohitmaiti046@gmail.com](mailto:rohitmaiti046@gmail.com)**
+
+## 🧰 Languages, Tools & Technologies
+
+<p align="center">
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="46" alt="Python" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="46" alt="HTML" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="46" alt="CSS" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" width="46" alt="JavaScript" /></a>
+  <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="46" alt="MySQL" /></a>
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="46" alt="Git" /></a>
+  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="46" alt="GitHub" /></a>
+  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="46" alt="Visual Studio Code" /></a>
+  <a href="https://www.arduino.cc/"><img src="https://skillicons.dev/icons?i=arduino" width="46" alt="Arduino" /></a>
+  <a href="https://unity.com/"><img src="https://skillicons.dev/icons?i=unity" width="46" alt="Unity" /></a>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/rohitmaiti588">
+    ![Rohit's GitHub statistics (dark mode)](https://github-readme-stats.vercel.app/api?username=rohitmaiti588&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=github_dark#gh-dark-mode-only)
+    ![Rohit's GitHub statistics (light mode)](https://github-readme-stats.vercel.app/api?username=rohitmaiti588&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=default#gh-light-mode-only)
+  </a>
+  <a href="https://github.com/rohitmaiti588">
+    ![Most-used languages (dark mode)](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitmaiti588&layout=compact&langs_count=8&hide_border=true&theme=github_dark#gh-dark-mode-only)
+    ![Most-used languages (light mode)](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitmaiti588&layout=compact&langs_count=8&hide_border=true&theme=default#gh-light-mode-only)
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Frohitmaiti588&query=%24.public_repos&label=Public%20Repositories&style=for-the-badge&logo=github&color=0e75b6" alt="Public repository count" />
+</p>
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  ![GitHub contribution streak (dark mode)](https://streak-stats.demolab.com?user=rohitmaiti588&hide_border=true&theme=github-dark-blue#gh-dark-mode-only)
+  ![GitHub contribution streak (light mode)](https://streak-stats.demolab.com?user=rohitmaiti588&hide_border=true&theme=default#gh-light-mode-only)
+</p>
+
+## 📈 Contribution Activity Graph
+
+<p align="center">
+  <a href="https://github.com/rohitmaiti588">
+    ![Contribution activity graph (dark mode)](https://github-readme-activity-graph.vercel.app/graph?username=rohitmaiti588&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true#gh-dark-mode-only)
+    ![Contribution activity graph (light mode)](https://github-readme-activity-graph.vercel.app/graph?username=rohitmaiti588&bg_color=ffffff&color=24292f&line=0969da&point=0969da&area=true&hide_border=true#gh-light-mode-only)
+  </a>
+</p>
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  ![GitHub trophies (dark mode)](https://github-profile-trophy.vercel.app/?username=rohitmaiti588&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6#gh-dark-mode-only)
+  ![GitHub trophies (light mode)](https://github-profile-trophy.vercel.app/?username=rohitmaiti588&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1&column=6#gh-light-mode-only)
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="mailto:rohitmaiti046@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Rohit" />
+  </a>
+  <a href="https://github.com/rohitmaiti588">
+    <img src="https://img.shields.io/badge/GitHub-rohitmaiti588-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
+  </a>
+</p>
+
+<!-- Add your verified LinkedIn profile URL when ready. Avoid using a guessed profile link. -->
+
+<div align="center">
+
+### 💡 Thanks for visiting!
+
+*Still learning, still building, and always improving.*
+
+</div>
