@@ -87,14 +87,13 @@
 
 ---
 
-## 📈 Contribution Activity
 
-<div align="center">
+<!-- <div align="center"-->
 
 <!-- Contribution activity graph -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rohitmaiti588&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ffffff&area=true&hide_border=true" alt="GitHub Contribution Activity Graph"/>
+<!-- <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rohitmaiti588&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ffffff&area=true&hide_border=true" alt="GitHub Contribution Activity Graph"/> -->
 
-</div>
+<!-- </div> -->
 
 ### 🗓️ Contribution Calendar
 
@@ -131,53 +130,6 @@
 </a>
 <a href="https://github.com/rohitmaiti588">
   <img src="https://ghstats.dev/api/mini?username=rohitmaiti588&metric=contributions&style=for-the-badge" alt="Yearly Contributions"/>
-</a>
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-Here are the projects and repositories I want to showcase.
-
-<!--
-HOW TO CUSTOMIZE:
-1. Replace YOUR_REPOSITORY_1 with an actual repository name.
-2. Replace YOUR_REPOSITORY_2 with an actual repository name.
-3. Replace YOUR_REPOSITORY_3 with an actual repository name.
-4. Add or remove project cards as needed.
--->
-
-<div align="center">
-
-<a href="https://github.com/RohitMaiti588/bon-voyage-travel-planner">
-  <img width="49%" src="https://ghstats.dev/api/pin?username=rohitmaiti588&repo=YOUR_REPOSITORY_1&theme=tokyonight" alt="Featured Project 1"/>
-</a>
-<a href="https://github.com/RohitMaiti588/BhuDristi">
-  <img width="49%" src="https://ghstats.dev/api/pin?username=rohitmaiti588&repo=YOUR_REPOSITORY_2&theme=tokyonight" alt="Featured Project 2"/>
-</a>
-
-<a href="https://github.com/RohitMaiti588/Ocean-Pollution-Awareness-Using-Technology">
-  <img width="49%" src="https://ghstats.dev/api/pin?username=rohitmaiti588&repo=YOUR_REPOSITORY_3&theme=tokyonight" alt="Featured Project 3"/>
-</a>
-
-</div>
-
-<p align="center">
-  <a href="https://github.com/rohitmaiti588?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20All%20Projects-6366f1?style=for-the-badge&logo=github&logoColor=white" alt="Explore All Projects"/>
-  </a>
-</p>
-
----
-
-## 🏆 Achievements & Trophies
-
-<div align="center">
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width="100%" src="[![trophy](https://github-profile-trophy.vercel.app/?username=rohitmaiti588)](https://github.com/ryo-ma/github-profile-trophy)"/>
 </a>
 
 </div>
