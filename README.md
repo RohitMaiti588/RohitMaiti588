@@ -87,17 +87,6 @@
 
 ---
 
-## 📈 Contribution Activity
-
-  <img
-    src="https://ghchart.rshah.org/6366f1/rohitmaiti588"
-    alt="Rohit Maiti's GitHub Contribution Calendar"
-    width="100%"
-  />
-</div>
-
----
-
 ### 🗓️ Contribution Calendar
 
 <div align="center">
