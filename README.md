@@ -151,14 +151,14 @@ HOW TO CUSTOMIZE:
 
 <div align="center">
 
-<a href="https://github.com/rohitmaiti588/YOUR_REPOSITORY_1">
+<a href="https://github.com/RohitMaiti588/bon-voyage-travel-planner">
   <img width="49%" src="https://ghstats.dev/api/pin?username=rohitmaiti588&repo=YOUR_REPOSITORY_1&theme=tokyonight" alt="Featured Project 1"/>
 </a>
-<a href="https://github.com/rohitmaiti588/YOUR_REPOSITORY_2">
+<a href="https://github.com/RohitMaiti588/BhuDristi">
   <img width="49%" src="https://ghstats.dev/api/pin?username=rohitmaiti588&repo=YOUR_REPOSITORY_2&theme=tokyonight" alt="Featured Project 2"/>
 </a>
 
-<a href="https://github.com/rohitmaiti588/YOUR_REPOSITORY_3">
+<a href="https://github.com/RohitMaiti588/Ocean-Pollution-Awareness-Using-Technology">
   <img width="49%" src="https://ghstats.dev/api/pin?username=rohitmaiti588&repo=YOUR_REPOSITORY_3&theme=tokyonight" alt="Featured Project 3"/>
 </a>
 
@@ -177,7 +177,7 @@ HOW TO CUSTOMIZE:
 <div align="center">
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=rohitmaiti588&theme=tokyonight&no-frame=true&margin-w=8&row=2&column=4" alt="GitHub Profile Trophies"/>
+  <img width="100%" src="[![trophy](https://github-profile-trophy.vercel.app/?username=rohitmaiti588)](https://github.com/ryo-ma/github-profile-trophy)"/>
 </a>
 
 </div>
